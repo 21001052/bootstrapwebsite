@@ -627,7 +627,7 @@ Publish the website in the given URL.
 ## OUTPUT:
 ### Home Page:
 ![](tham1.png)
-![](tham2.pmg)
+![](tham2.png)
 ![](tham3.png)
 
 
